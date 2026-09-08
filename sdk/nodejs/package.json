@@ -1,6 +1,6 @@
 {
   "name": "@bambamboole/pulumi-glitchtip",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://glitchtip.com",
   "repository": "https://github.com/bambamboole/pulumi-provider-glitchtip",
   "license": "Apache-2.0",
@@ -17,7 +17,7 @@
   "pulumi": {
     "resource": true,
     "name": "glitchtip",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "server": "https://github.com/bambamboole/pulumi-provider-glitchtip/releases/download/v$%7BVERSION%7D"
   },
   "main": "index.js",
