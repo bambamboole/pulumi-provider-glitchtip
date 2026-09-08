@@ -1,0 +1,28 @@
+{
+  "name": "@bambamboole/pulumi-glitchtip",
+  "version": "0.0.0",
+  "homepage": "https://glitchtip.com",
+  "repository": "https://github.com/bambamboole/pulumi-provider-glitchtip",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.142.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "typescript": "^4.7.0"
+  },
+  "pulumi": {
+    "resource": true,
+    "name": "glitchtip",
+    "version": "0.0.0",
+    "server": "https://github.com/bambamboole/pulumi-provider-glitchtip/releases/download/v$%7BVERSION%7D"
+  },
+  "main": "index.js",
+  "types": "index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  }
+}

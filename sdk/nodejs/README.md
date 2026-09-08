@@ -1,0 +1,1 @@
+Manage resources on a GlitchTip instance: organizations, their members and teams, projects with their DSN keys and alert rules, uptime monitors, and the first API token of a freshly deployed instance.
