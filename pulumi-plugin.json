@@ -1,0 +1,9 @@
+{
+    "resource": true,
+    "name": "glitchtip",
+    "version": "0.0.0",
+    "apiVersion": "v1",
+    "server": {
+        "grpc": true
+    }
+}

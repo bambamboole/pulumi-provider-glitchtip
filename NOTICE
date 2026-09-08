@@ -1,0 +1,8 @@
+pulumi-provider-glitchtip
+
+Apache License 2.0 contributions copyright (c) 2026 the authors
+(https://github.com/bambamboole/pulumi-provider-glitchtip).
+
+The shapes of the GlitchTip API fields are informed by the OpenAPI document
+GlitchTip serves at /api/openapi.json (https://gitlab.com/glitchtip/glitchtip-backend,
+MIT license). Used for reference only; no code is vendored.
